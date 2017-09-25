@@ -1,12 +1,12 @@
 var animal = 'dog'
 
 function myAnimal() {
-  return animal
+  return animal;
 }
 
 function yourAnimal(animal) {
-  var animal = "cat"
-  return animal
+  var animal = "cat";
+  return animal;
 }
 
 function add2(n) {
@@ -16,7 +16,7 @@ function add2(n) {
 
 var funkyFunction = function() {
   return function() {
-    return "FUNKY!"
+    return "FUNKY!";
   }
 }
 
